@@ -100,6 +100,14 @@ python -m notebooks.6_modelo_CNN+MLP.ipynb
 python -m notebooks.6_modelo_CNN+MLP.ipynb
 ```
 
+## 📦 Datos preprocesados
+
+Los conjuntos de datos preprocesados se pueden descargar desde la sección **Releases**:
+
+- [images_preproc.zip (143 MB)](https://github.com/jcceron/saludpez_CNN_MLP/releases/download/v1.0.0/images_preproc.zip)  
+- [images.zip (487 MB)](https://github.com/jcceron/saludpez_CNN_MLP/releases/download/v1.0.0/images.zip)  
+
+
 ## 📈 Resultados
 
 * **Accuracy:** 97 %
