@@ -128,8 +128,6 @@ Repositorio: [https://github.com/jcceron/saludpez_CNN_MLP](https://github.com//j
 
 ## Bibliografía
 
-Bibliografía
-
 - Chollet, F. (2021). Deep Learning with Python (2ª ed.). Shelter Island: Manning Publications Co.
 
 - Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. Canadá: O’Reilly Media, Inc.
