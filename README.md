@@ -4,7 +4,8 @@ Este repositorio contiene el código y los recursos para el proyecto de **Clasif
 
 ## 📂 Estructura del proyecto
 
-PROYECTO_PECES/
+```bash
+SALUDPEZ_CNN_MLP/
 ├── .venv/                             # Entorno virtual
 ├── data/                              # Carpeta con datos e imágenes
 ├── notebooks/                         # Notebooks de análisis y modelado
@@ -36,7 +37,7 @@ PROYECTO_PECES/
 │   └── prep_ver_imagenes.py           # Visualización de pasos de preprocesamiento
 ├── requirements.txt                   # Dependencias del proyecto
 └── README.md                          # Documentación principal
-```bash
+ ```
 
 ## 🔧 Instalación
 
@@ -124,3 +125,15 @@ Este proyecto está bajo la licencia Apache 2.0. Consulte el archivo `LICENSE` p
 
 Juan C. Cerón – **[juan.ceron@ustabuca.edu.co](mailto:juan.ceron@ustabuca.edu.co)**
 Repositorio: [https://github.com/jcceron/saludpez_CNN_MLP](https://github.com//jcceron/saludpez_CNN_MLP)
+
+## Bibliografía
+
+Bibliografía
+
+- Chollet, F. (2021). Deep Learning with Python (2ª ed.). Shelter Island: Manning Publications Co.
+
+- Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. Canadá: O’Reilly Media, Inc.
+
+- Medina Tobón, J. D., & Giraldo, L. F. (26 de mayo de 2022). Video footage of fish and water quality variables in a fish farming scenario, Version 2. Obtenido de figshare: https://figshare.com/articles/dataset/Video_footage_of_fish_and_water_quality_variables_in_a_fish_farming_scenario/19653321
+
+- Szeliski, R. (2022). Computer Vision: Algorithms and Applications (2ª ed.). Obtenido de https://szeliski.org/Book/
