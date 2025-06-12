@@ -14,8 +14,13 @@ venv/
 .ipynb\_checkpoints/
 
 # Data files
+# Ignorar todo el data/
+data/*
+# No ignorar los CSV de etiquetas y sensores
+!data/*.CSV
+# (No ignorar .xlsx e incluirlos)
+!data/*.xlsx
 
-data/
 
 # Model weights and artifacts
 
