@@ -1,0 +1,60 @@
+# Python
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+
+.ipynb\_checkpoints/
+
+# Data files
+
+data/
+
+# Model weights and artifacts
+
+\*.pt
+notebooks/models/
+
+# Logs and reports
+
+\*.log
+
+# IDE and editor folders
+
+.vscode/
+
+# macOS
+
+.DS\_Store
+
+# Coverage reports
+
+htmlcov/
+.coverage
+
+# Distribution / packaging
+
+.build/
+dist/
+build/
+
+# Temporary files
+
+\*.tmp
+\*.swp
+\*.swo
+
+# Environment files
+
+.env
+
+# System files
+
+Thumbs.db
