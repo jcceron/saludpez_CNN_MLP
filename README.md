@@ -19,7 +19,7 @@ SALUDPEZ_CNN_MLP/
 │   ├── 4_verificar_etiquetado.ipynb   # Verificación del etiquetado
 │   ├── 5_preproc_image.ipynb          # Preprocesamiento de imágenes
 │   ├── 6_modelo_CNN+MLP.ipynb         # Definición y entrenamiento del modelo
-│   └── fish_health_classification.ipynb # En desarrollo actividad sección 4
+│   └── 7_fish_health_DEAP.ipynb       # En desarrollo actividad sección 4
 ├── scripts/                           # Módulos Python
 │   ├── __pycache__/
 │   ├── pruebas/                       # Scripts de prueba
@@ -34,7 +34,8 @@ SALUDPEZ_CNN_MLP/
 │   ├── prep_auxiliares.py             # Funciones de preprocesamiento v2
 │   ├── prep_cuantitativa.py           # Cálculo de coverage y estadísticas
 │   ├── prep_save_dataset.py           # Guardado de imágenes preprocesadas
-│   └── prep_ver_imagenes.py           # Visualización de pasos de preprocesamiento
+│   ├── prep_ver_imagenes.py           # Visualización de pasos de preprocesamiento
+│   └── deap_....py                    # Librerías personalizadas para DEAP actividad 4
 ├── requirements.txt                   # Dependencias del proyecto
 └── README.md                          # Documentación principal
  ```
