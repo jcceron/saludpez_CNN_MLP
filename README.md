@@ -19,7 +19,7 @@ SALUDPEZ_CNN_MLP/
 │   ├── 4_verificar_etiquetado.ipynb   # Verificación del etiquetado
 │   ├── 5_preproc_image.ipynb          # Preprocesamiento de imágenes
 │   ├── 6_modelo_CNN+MLP.ipynb         # Definición y entrenamiento del modelo
-│   └── 7_fish_health_DEAP.ipynb       # En desarrollo actividad sección 4
+│   └── 7_fish_health_DEAP.ipynb       # Ajuste fino con GA (DEAP) actividad sección 4
 ├── scripts/                           # Módulos Python
 │   ├── __pycache__/
 │   ├── pruebas/                       # Scripts de prueba
