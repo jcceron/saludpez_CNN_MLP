@@ -103,8 +103,10 @@ python -m notebooks.6_modelo_CNN+MLP.ipynb
 ```
 ### 5. Optimización de hiperparámetros con algoritmos genéticos y evaluación final del model multimodal
 
+
 ```bash
 python -m notebooks.7_fish_health_DEAP.ipynb
+```
 
 ## 📦 Datos preprocesados
 
