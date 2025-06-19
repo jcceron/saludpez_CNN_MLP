@@ -116,11 +116,15 @@ Los conjuntos de datos preprocesados se pueden descargar desde la sección **Rel
 - [images.zip (487 MB)](https://github.com/jcceron/saludpez_CNN_MLP/releases/download/v1.0.0/images.zip)  
 
 
-## 📈 Resultados
+## 📈 Resultados finales
 
-* **Accuracy:** 97 %
-* **Precision/Recall/F₁-score** por clase (ver Tabla en la sección de resultados)
-* **Coverage:** enfermo (9.2 %), estrés leve (7.7 %), saludable (11.0 %)
+* **Accuracy:** 99.93 %
+* **Precision/Recall/F₁-score** 99.93% / 99.93% / 0.9993 respectivamente.
+* **Matriz de confusión:** 
+
+ [[1154    0    0]
+ [   0  632    0]
+ [   0    2 1049]]
 
 Para más detalles, consulte los notebooks en la carpeta `notebooks/`.
 
